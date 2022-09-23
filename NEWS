@@ -1,3 +1,70 @@
+43.0 - September 16, 2022
+=========================
+
+Updated translations:
+ * Goran Vidović (hr)
+
+43.rc - September 03, 2022
+==========================
+
+Kai Lüke:
+ * flatpak: Use devel branch for UDisks
+ * flatpak: Use libfdisk from util-linux
+
+Maximiliano Sandoval R:
+ * flatpak: Use devel build for blockdev
+
+Updated translations:
+ * Goran Vidović (hr), Jordi Mas (ca), Nart Tlisha (ab)
+
+43.beta - August 08, 2022
+=========================
+
+Maximiliano Sandoval R:
+ * ci: Use nigthly image
+ * flatpak: Use specific udisk tag
+ * flatpak: own org.gnome.Disks.NotificationMonitor
+ * flatpak: Use fallback-x11 instead of x11
+ * flatpak: Add libnotify
+ * desktop: Mark app as using notifications
+
+Nart Tlisha:
+ * Add Abkhazian translation
+
+Updated translations:
+ * Nart Tlisha (ab)
+
+43.alpha - July 15, 2022
+========================
+
+Kai Lüke:
+ * flatpak: use alternative location for keyutils-1.6.1.tar.bz2
+ * Remove incompatible volatile qualifiers
+ * INSTALL: Fix broken link
+ * Add development pointers to the readme and remove obsolete TODOs
+
+Manuel Wassermann:
+ * gduatasmartdialog: Replace deprecated GIO function
+ * gduformatdiskdialog: Fix parameter of g_signal_connect () and remove unused variable
+ * gduapplication: Fix parameter of g_signal_connect ()
+ * gduutils: Implement gdu_utils_can_format
+ * gduutils: Remove unused variable in gdu_utils_can_check
+ * createfilesystempage: Check for vfat support
+ * createfilesystempage: Add tooltip for missing utilities
+ * gduapplication: Free string after use
+ * gduatasmartdialog: Free string after use
+ * gduwindow: Free GList after use
+
+Maximiliano Sandoval R:
+ * meson: Use gnome.post_install
+
+Zurab Kargareteli:
+ * Add Georgian translation
+
+Updated translations:
+ * Asier Sarasua Garmendia (eu), Nathan Follens (nl), Pawan Chitrakar
+   (ne), Rūdolfs Mazurs (lv), Zurab Kargareteli (ka)
+
 42.0 - March 18, 2022
 =====================
 

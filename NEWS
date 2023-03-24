@@ -1,3 +1,72 @@
+44.0 - March 17, 2023
+=====================
+
+Kai Lüke:
+ * flatpak: Use popt default branch
+ * flatpak: popt switched to cmake
+
+Updated translations:
+ * Alexander Shopov (bg), Ask Hjorth Larsen (da), Marek Černocký (cs),
+   MohammadSaleh Kamyab (fa), Piotr Drąg (pl), Seong-ho Cho (ko)
+
+44.rc - March 03, 2023
+======================
+
+Kai Lüke:
+ * flatpak: People like to rename branches back and forth
+
+Mohammed Sadiq:
+ * Add .dir-locals
+ * various: Remove GNU Emacs file variables
+
+Updated translations:
+ * Anders Jonsson (sv), Asier Sarasua Garmendia (eu), Aurimas Černius
+   (lt), Balázs Úr (hu), Daniel (es), Matej Urbančič (sl), Philipp Kiemle
+   (de), Sabri Ünal (tr), Марко Костић (sr)
+
+44.beta - February 09, 2023
+===========================
+
+Piotr Drąg:
+ * Update POTFILES.in
+
+Updated translations:
+ * Aleksandr Melman (ru), Dušan Kazik (sk), Ekaterine Papava (ka), Emin
+   Tufan Çetin (tr), Fabio Tomat (fur), Fran Dieguez (gl), Hugo Carvalho
+   (pt), Kukuh Syafaat (id), Ngọc Quân Trần (vi), Sabri Ünal (tr),
+   Yosef Or Boczko (he), Yuri Chornoivan (uk)
+
+44.alpha - January 24, 2023
+===========================
+
+Kai Lüke:
+ * ci: Use OCI images hosted on Quay
+ * flatpak: Use new default branch name for popt
+
+Mohammed Sadiq:
+ * passwordstrength: Don't override setter
+ * passwordstrength: Port to use G_DECLARE_FINAL_TYPE
+ * createotherpage: Re-factor
+ * estimator: Don't override finalize()
+ * estimator: Port to use G_DECLARE_FINAL_TYPE
+ * filesystemdialog: Port to use GtkBuilder Templates
+ * new-disk-image-dialog: Port to GtkBuilder templates
+ * unlock-dialog: Port to GtkBuilder templates
+ * format-disk-dialog: Port to GtkBuilder templates
+ * change-passphrase-dialog: Port to GtkBuilder templates
+ * partition-dialog: Port to GtkBuilder templates
+ * crypttab-dialog: Port to GtkBuilder templates
+
+Olga Smirnova:
+ * Add Interlingue translation
+
+Sabri Ünal:
+ * help-overlay: Remove visible properties
+
+Updated translations:
+ * Aleksandr Melman (ru), Nathan Follens (nl), Olga Smirnova (ie), Pawan
+   Chitrakar (ne), Quentin PAGÈS (oc), Sabri Ünal (tr), Sveinn í Felli (is)
+
 43.0 - September 16, 2022
 =========================
 
